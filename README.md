@@ -1,6 +1,8 @@
 # ProjectWiseSetup
 This project contains all of the cmdlets used for creating a ProjectWise Project.
 
+***
+
 To make the cmdlets available for use:
 * Copy the PWConnectedProjectCmdlets folder
 * Go to this location: C:\Program Files\WindowsPowerShell\Modules
